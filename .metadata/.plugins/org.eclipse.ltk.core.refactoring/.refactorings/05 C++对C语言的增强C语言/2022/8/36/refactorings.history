@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;05 C++对C语言的增强C语言/src/05 C++对C语言的增强C++语言.cpp&apos; to &apos;05 C++对C语言的增强C语言.c&apos;" description="Rename resource &apos;05 C++对C语言的增强C++语言.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/05 C++对C语言的增强C++语言.cpp" name="05 C++对C语言的增强C语言.c" stamp="1661758110238" updateReferences="true"/>
+</session>

@@ -1,0 +1,8 @@
+LaunchTargetManager/configs/05\ C++\u5BF9C\u8BED\u8A00\u7684\u589E\u5F3AC\u8BED\u8A00.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:01 HelloWorld.exe,org.eclipse.launchbar.core.descriptorType.default\:02 \u53CC\u5192\u53F7\u4F5C\u7528\u57DF\u8FD0\u7B97\u7B26.exe,org.eclipse.launchbar.core.descriptorType.default\:03 namespace\u7684\u4F7F\u7528.exe,org.eclipse.launchbar.core.descriptorType.default\:04 using\u58F0\u660E\u548Cusing\u7F16\u8BD1\u6307\u4EE4.exe,org.eclipse.launchbar.core.descriptorType.default\:05 C++\u5BF9C\u8BED\u8A00\u7684\u589E\u5F3AC\u8BED\u8A00.exe,org.eclipse.launchbar.core.descriptorType.default\:06 C++\u5BF9C\u8BED\u8A00\u7684\u589E\u5F3AC++\u8BED\u8A00.exe,org.eclipse.launchbar.core.descriptorType.default\:07 C\u8BED\u8A00\u4E2D\u7684const\u9ED8\u8BA4\u662F\u5916\u90E8\u94FE\u63A5.exe,org.eclipse.launchbar.core.descriptorType.default\:08 C++\u8BED\u8A00\u4E2D\u7684const\u9ED8\u8BA4\u662F\u5185\u90E8\u94FE\u63A5.exe,org.eclipse.launchbar.core.descriptorType.default\:09 const\u5206\u914D\u5185\u5B58\u60C5\u51B5.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:01\ HelloWorld.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:01\ HelloWorld.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

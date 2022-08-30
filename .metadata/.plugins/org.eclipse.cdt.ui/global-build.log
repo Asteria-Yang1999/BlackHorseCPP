@@ -1,0 +1,9 @@
+21:25:33 **** Incremental Build of configuration Debug for project 09 const分配内存情况 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\09 const分配内存情况.o" "..\\src\\09 const分配内存情况.cpp" 
+..\src\09 const�����ڴ����.cpp: In function 'void test01()':
+..\src\09 const�����ڴ����.cpp:18:8: warning: unused variable 'p' [-Wunused-variable]
+   18 |  int * p = (int*) &m_A; //会分配临时内存
+      |        ^
+g++ -o "09 const分配内存情况.exe" "src\\09 const分配内存情况.o" 
+Info: Nothing to build for 09 const分配内存情况

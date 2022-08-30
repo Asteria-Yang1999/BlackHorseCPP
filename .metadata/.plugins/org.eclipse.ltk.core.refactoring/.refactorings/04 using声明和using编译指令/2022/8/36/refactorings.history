@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;04 using声明和using编译指令/04 using声明和using编译指令&apos; to &apos;04 using声明和using编译指令.cpp&apos;" description="Rename resource &apos;04 using声明和using编译指令&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="04 using声明和using编译指令" name="04 using声明和using编译指令.cpp" stamp="1661756676835" updateReferences="true"/>
+</session>

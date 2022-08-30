@@ -1,0 +1,32 @@
+/*
+ ============================================================================
+ Name        : 05.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+//1.全局变量检测增强
+int a;
+int a = 10;
+
+//2.函数检测增强
+int getRectS(w, h)
+{
+
+}
+void test02()
+{
+	getRectS(10, 10, 10)
+}
+
+int main(void) {
+
+
+	return EXIT_SUCCESS;
+}

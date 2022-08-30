@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;08 C++语言中的const默认是内部链接/src/test.c&apos; to &apos;test.cpp&apos;" description="Rename resource &apos;test.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test.c" name="test.cpp" stamp="1661778417197" updateReferences="true"/>
+</session>

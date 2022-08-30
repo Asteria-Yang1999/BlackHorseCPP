@@ -1,0 +1,26 @@
+//============================================================================
+// Name        : 06.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+//1.全局变量检测增强
+int a;
+int a = 10;
+
+//2.函数检测增强, 参数类型增强, 返回值检测增强
+int getRectS(int w, int h)
+{
+	return w*h;
+}
+
+int main() {
+
+
+	return 0;
+}

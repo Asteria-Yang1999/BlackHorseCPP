@@ -1,0 +1,24 @@
+20:52:15 **** Incremental Build of configuration Debug for project 05 C++对C语言的增强C语言 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\05 C++对C语言的增强C语言.o" "..\\src\\05 C++对C语言的增强C语言.c" 
+..\src\05 C++��C���Ե���ǿC����.c: In function 'getRectS':
+..\src\05 C++��C���Ե���ǿC����.c:19:5: warning: type of 'w' defaults to 'int' [-Wimplicit-int]
+   19 | int getRectS(w, h)
+      |     ^~~~~~~~
+..\src\05 C++��C���Ե���ǿC����.c:19:5: warning: type of 'h' defaults to 'int' [-Wimplicit-int]
+..\src\05 C++��C���Ե���ǿC����.c: In function 'test03':
+..\src\05 C++��C���Ե���ǿC����.c:31:9: warning: unused variable 'p' [-Wunused-variable]
+   31 |  char * p = malloc(sizeof(04)); //malloc返回值是void*
+      |         ^
+..\src\05 C++��C���Ե���ǿC����.c: In function 'test04':
+..\src\05 C++��C���Ե���ǿC����.c:44:16: warning: unused variable 'p1' [-Wunused-variable]
+   44 |  struct Person p1;  //c语言中使用时必须加入struct关键字
+      |                ^~
+..\src\05 C++��C���Ե���ǿC����.c: In function 'getRectS':
+..\src\05 C++��C���Ե���ǿC����.c:22:1: warning: control reaches end of non-void function [-Wreturn-type]
+   22 | }
+      | ^
+gcc -o "05 C++对C语言的增强C语言.exe" "src\\05 C++对C语言的增强C语言.o" 
+
+20:52:16 Build Finished. 0 errors, 5 warnings. (took 1s.345ms)
+

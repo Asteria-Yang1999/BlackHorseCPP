@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+namespace KingGlory
+{
+	int sunwukongID = 10;
+}
+
+void test01()
+{
+	int sunwukongID = 20;
+
+	cout << sunwukongID << endl;
+}
+
+int main()
+{
+
+	return 0;
+}
