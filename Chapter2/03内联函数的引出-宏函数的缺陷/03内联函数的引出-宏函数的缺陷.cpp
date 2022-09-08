@@ -30,7 +30,7 @@ void test02()
     int a = 10;
     int b = 20;
 
-    // int ret = MyCompare(++a, b);   // 预期结果：11
+    // int ret = MyCompare(++a, b);   // 预期结果：11  ((a++) < (b) ? (a++) : (b))
     // cout << "ret = " << ret << endl;
 
     mycompare(++a, b);
