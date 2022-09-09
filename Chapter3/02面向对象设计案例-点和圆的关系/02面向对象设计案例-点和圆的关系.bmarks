@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="point.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="129" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="circle.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="39" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="02面向对象设计案例-点和圆的关系.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="874" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+</BrowseTracker_layout_file>

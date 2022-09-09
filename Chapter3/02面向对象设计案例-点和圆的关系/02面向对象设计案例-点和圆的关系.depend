@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\22526\documents\codes\c++\blackhorsecpp\chapter3\02面向对象设计案例-点和圆的关系\main.cpp
+	<iostream>
+
+1662730606 source:c:\users\22526\documents\codes\c++\blackhorsecpp\chapter3\02面向对象设计案例-点和圆的关系\02面向对象设计案例-点和圆的关系.cpp
+	<iostream>
+
+1662731359 source:c:\users\22526\documents\codes\c++\blackhorsecpp\chapter3\02面向对象设计案例-点和圆的关系\point.cpp
+	"point.h"
+
+1662731396 c:\users\22526\documents\codes\c++\blackhorsecpp\chapter3\02面向对象设计案例-点和圆的关系\point.h
+	<iostream>
+
+1662731750 source:c:\users\22526\documents\codes\c++\blackhorsecpp\chapter3\02面向对象设计案例-点和圆的关系\circle.cpp
+	"circle.h"
+	"point.h"
+
+1662731665 c:\users\22526\documents\codes\c++\blackhorsecpp\chapter3\02面向对象设计案例-点和圆的关系\circle.h
+	<iostream>
+	"point.h"
+
