@@ -1,0 +1,14 @@
+# ninja log v5
+3	194	6850421318148388	build.ninja	4cbb7d8e1aef7968
+0	331	6850421180578913	CMakeFiles/06nullPointer.dir/06nullPointer.cpp.obj	afb62a1335fb1edd
+333	451	6850421181725815	06nullPointer.exe	6b370839b50865c6
+3	346	6850423724030603	CMakeFiles/06nullPointer.dir/06nullPointer.cpp.obj	afb62a1335fb1edd
+347	456	6850423725088054	06nullPointer.exe	6b370839b50865c6
+3	340	6850424022122040	CMakeFiles/06nullPointer.dir/06nullPointer.cpp.obj	afb62a1335fb1edd
+340	452	6850424023209125	06nullPointer.exe	6b370839b50865c6
+4	358	6850424111189146	CMakeFiles/06nullPointer.dir/06nullPointer.cpp.obj	afb62a1335fb1edd
+359	466	6850424112239879	06nullPointer.exe	6b370839b50865c6
+2	420	6850425320090416	CMakeFiles/06nullPointer.dir/06nullPointer.cpp.obj	afb62a1335fb1edd
+420	552	6850425321356986	06nullPointer.exe	6b370839b50865c6
+2	335	6850425605975930	CMakeFiles/06nullPointer.dir/06nullPointer.cpp.obj	afb62a1335fb1edd
+335	445	6850425607044771	06nullPointer.exe	6b370839b50865c6
