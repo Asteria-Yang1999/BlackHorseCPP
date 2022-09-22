@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663812842 source:c:\users\22526\documents\codes\c++\blackhorsecpp\chapter5\01强化训练-数组类封装\myarray.cpp
+	"MyArray.h"
+
+1663812963 c:\users\22526\documents\codes\c++\blackhorsecpp\chapter5\01强化训练-数组类封装\myarray.h
+	<iostream>
+
+1663664726 source:c:\users\22526\documents\codes\c++\blackhorsecpp\chapter5\01强化训练-数组类封装\01强化训练-数组类封装.cpp
+	<iostream>
+	"MyArray.h"
+
