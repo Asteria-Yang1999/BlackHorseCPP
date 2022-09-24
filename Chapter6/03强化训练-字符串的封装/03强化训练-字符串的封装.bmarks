@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="MyString.h" open="1" top="0" tabpos="3">
+		<Cursor position="668" topLine="7" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="03强化训练-字符串的封装.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="776" topLine="13" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="MyString.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2919" topLine="108" />
+		<BrowseMarks positions="" />
+	</File>
+</BrowseTracker_layout_file>

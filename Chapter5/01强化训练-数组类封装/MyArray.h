@@ -28,6 +28,10 @@ public:
     //获取数组容量
     int getCapacity();
 
+    //[]运算符重载
+    int& operator[](int index);
+
+
 private:
     int * pAddress;    //指向真正存储数据的指针
     int m_Size;    //数组大小

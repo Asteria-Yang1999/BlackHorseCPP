@@ -37,7 +37,11 @@ void test01()
     cout << "array2 的数组容量为：" << array2->getCapacity() << endl;
 
     //获取  设置   数组内容    如何用中括号进行设置和访问
-//    cout << array3[0] <<endl;
+    array3.push_Back(100000);
+    cout << array3.getData(0) << endl;
+    cout << array3[0] << endl;
+    array3[0] = 100;
+    cout << array3[0] << endl;
 //    array3[0] = 10000;
 }
 

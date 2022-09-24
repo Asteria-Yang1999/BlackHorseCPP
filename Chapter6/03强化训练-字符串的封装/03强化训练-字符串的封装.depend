@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664025468 source:c:\users\22526\documents\codes\c++\blackhorsecpp\chapter6\03强化训练-字符串的封装\mystring.cpp
+	"MyString.h"
+
+1664026788 c:\users\22526\documents\codes\c++\blackhorsecpp\chapter6\03强化训练-字符串的封装\mystring.h
+	<iostream>
+	<string>
+	<string.h>
+
+1664027169 source:c:\users\22526\documents\codes\c++\blackhorsecpp\chapter6\03强化训练-字符串的封装\03强化训练-字符串的封装.cpp
+	<iostream>
+	"MyString.h"
+

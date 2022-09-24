@@ -72,3 +72,9 @@ int MyArray::getCapacity()
 {
     return this->m_Capacity;
 }
+
+//[]重载实现
+int& MyArray::operator[](int index)
+{
+    return this->pAddress[index];
+}
