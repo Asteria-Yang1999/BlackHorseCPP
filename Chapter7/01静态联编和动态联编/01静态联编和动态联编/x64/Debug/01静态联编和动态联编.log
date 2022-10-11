@@ -1,0 +1,5 @@
+﻿  01静态联编和动态联编.cpp
+f:\documents\c++\blackhorsecpp\chapter7\01静态联编和动态联编\01静态联编和动态联编\01静态联编和动态联编.cpp(58): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+f:\documents\c++\blackhorsecpp\chapter7\01静态联编和动态联编\01静态联编和动态联编\01静态联编和动态联编.cpp(58): warning C4312: 'type cast': conversion from 'int' to 'void (__cdecl *)(void)' of greater size
+  01静态联编和动态联编.vcxproj -> F:\Documents\C++\BlackHorseCPP\Chapter7\01静态联编和动态联编\x64\Debug\01静态联编和动态联编.exe
+  01静态联编和动态联编.vcxproj -> F:\Documents\C++\BlackHorseCPP\Chapter7\01静态联编和动态联编\x64\Debug\01静态联编和动态联编.pdb (Full PDB)
